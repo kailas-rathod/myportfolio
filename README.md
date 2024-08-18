@@ -2,7 +2,7 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](https://kailas-rathod.github.io/)
+### [live preview](https://github.com/kailas-rathod.github.io/myportfolio)
 
 [![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://kailas-rathod.github.io/)
 
