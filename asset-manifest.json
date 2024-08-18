@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/kailas-rathod.github.io/myportfolio/static/css/main.720396ab.css",
+    "main.js": "/kailas-rathod.github.io/myportfolio/static/js/main.abdc3d6d.js",
+    "index.html": "/kailas-rathod.github.io/myportfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.720396ab.css",
+    "static/js/main.abdc3d6d.js"
+  ]
+}
